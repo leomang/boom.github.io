@@ -1,0 +1,14 @@
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	body .navbar .header-curve.header-curve-left {
+		left: -115px;
+	}
+	body .navbar .header-curve.header-curve-right {
+		right: -115px;
+	}
+	body .jumbotron .header-curve.header-curve-left-bot {
+		left: -115px;
+	}
+	body .jumbotron .header-curve.header-curve-right-bot {
+		right: -115px;
+	}
+}
